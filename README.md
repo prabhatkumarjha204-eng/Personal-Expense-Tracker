@@ -9,8 +9,7 @@ A lightweight, robust Command-Line Interface (CLI) application built in Python t
 * **Data Persistence:** Uses a structured `expenses.json` file to save data automatically, ensuring your logs aren't lost when the application closes.
 * **Input Validation:** Prevents crashes from invalid user inputs (e.g., entering text instead of numbers for expense amounts).
 * **Robust Error Handling:** Smoothly handles file operations, missing files, and unexpected run-time edge cases.
-* **CRUD Functionality:** Allows users to dynamically add, view, and aggregate total spending effortlessly.
-
+* **Expense Management:** Provides a streamlined way to record, organize, and analyze daily expenses, helping users track their spending effectively.
 ---
 
 ## 🛠️ Tech Stack & Concepts Demonstrated
